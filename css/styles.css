@@ -6,9 +6,11 @@ body {
     background-color: #ffffff;
     /* Точка с запятой добавлена */
 }
-ul{
+
+ul {
     list-style: none;
 }
+
 a {
     color: blue;
     /* Исходный цвет ссылки */
@@ -20,12 +22,12 @@ a:hover {
     color: red;
     /* Цвет ссылки при наведении */
 }
-.logo{
+
+.logo {
     color: blue;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17
-    
-    
+    line-height: 1.17;
+    /* Точка с запятой добавлена */
 }
