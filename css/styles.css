@@ -49,3 +49,12 @@ a:hover {
     line-height: 1.5;
     
 }
+.navigation-link{
+    color: #2e2f42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.navigation-link:hover {
+    color: #2e2f42;
+}
