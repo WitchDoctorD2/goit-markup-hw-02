@@ -61,3 +61,6 @@ a:hover {
 .address{
     font-style: normal;
 }
+.navigation-linkk:focus{
+    color: #404bbf;
+}            
