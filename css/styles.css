@@ -31,10 +31,12 @@ a:hover {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    
     /* Точка с запятой добавлена */
 }
 .logo-header{
     color: #2e2f42;
+    
 }
 .main-footer{
     background-color: #2e2f42;
@@ -57,10 +59,10 @@ a:hover {
 }
 .navigation-linkk:hover {
     color: #404bbf
-}
-.address{
+}  
+.address {
     font-style: normal;
 }
-.navigation-linkk:focus{
-    color: #404bbf;
-}            
+.buttons-section{
+    background-color: #2e2f42;
+}
