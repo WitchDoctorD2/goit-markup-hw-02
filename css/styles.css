@@ -104,3 +104,15 @@ a:hover {
 .buy-button:focus {
     background-color: #404BBF;
 }
+
+.approach-section{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.approach-paragrafs {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
