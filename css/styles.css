@@ -1,10 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    /* Добавлена точка с запятой */
     color: #434455;
-    /* Точка с запятой добавлена */
     background-color: #ffffff;
-    /* Точка с запятой добавлена */
 }
 
 ul {
@@ -13,14 +10,11 @@ ul {
 
 a {
     color: blue;
-    /* Исходный цвет ссылки */
     text-decoration: none;
-    /* Убирает подчеркивание */
 }
 
 a:hover {
     color: red;
-    /* Цвет ссылки при наведении */
 }
 
 .logo {
@@ -31,45 +25,46 @@ a:hover {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    
-    /* Точка с запятой добавлена */
 }
-.logo-header{
-    color: #2e2f42;
-    
+
+.logo-header {
+    color: #2e2f42;   
 }
-.main-footer{
+
+.main-footer {
     background-color: #2e2f42;
 }
-.logo-footer{
+
+.logo-footer {
     color: #f4f4fd;
 }
 
-.footer-paragrapf{
+.footer-paragrapf {
     letter-spacing: 0.02em;
     color: #F4F4FD;
     line-height: 1.5;
     
 }
-.navigation-link{
-    color: #2e2f42;
+
+.navigation-link {
+    color: #434455;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.navigation-link-one{
-        color: #2e2f42;
-        font-weight: 500;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-     
+
+.navigation-link:hover {
+    color: #404bbf;
 }
-.navigation-link-one:hover {
-    color: #404bbf
-}  
+
+.navigation-link:focus {
+    color: #404bbf;
+}
+
 .address {
     font-style: normal;
 }
-.buttons-section{
+
+.buttons-section {
     background-color: #2e2f42;
 }
