@@ -81,6 +81,11 @@ a:hover {
 .button-section {
     background-color: #2e2f42;
 }
+
+.approach-section {
+    color: #2e2f42;
+}
+
 .main-title {
     font-size: 56px;
     line-height: 1.07;
