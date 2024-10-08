@@ -137,3 +137,7 @@ a:hover {
     text-transform: capitalize;
     color: #2e2f42;
 }
+
+.team-station {
+    font-size: 16px
+}
