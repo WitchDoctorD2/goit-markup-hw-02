@@ -127,6 +127,8 @@ a:hover {
 
 .team-section{
     background-color: #F4F4FD;
+    line-height: 1.5
+    font-size: 16px;
 }
 
 .team-subtitle {
@@ -138,8 +140,8 @@ a:hover {
     color: #2e2f42;
 }
 
-.team-station {
-    font-size: 16px
+.team-list {
+    background-color: #FFFFFF;
 }
 
 .port-photo {
@@ -157,6 +159,3 @@ a:hover {
     letter-spacing: 0.02em;
 }
 
-.team-list {
-    background-color: #FFFFFF;
-}
