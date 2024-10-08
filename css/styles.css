@@ -57,9 +57,12 @@ a:hover {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.navigation-linkk:hover {
+.navigation-link-one:hover {
     color: #404bbf
 }  
+.navigation-link-one:focus{
+    color: #404bbf;
+}
 .address {
     font-style: normal;
 }
