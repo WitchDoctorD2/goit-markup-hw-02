@@ -78,6 +78,9 @@ a:hover {
     color: #404bbf;
 }
 
+.button-section {
+    background-color: #2e2f42;
+}
 .main-title {
     font-size: 56px;
     line-height: 1.07;
